@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>我的第一个GitHub网站</title>
+    <style>
+        body { text-align: center; margin-top: 100px; font-size: 24px; }
+    </style>
+</head>
+<body>
+    <h1>Hello GitHub Pages!</h1>
+    <p>我的网站上线啦 🎉</p>
+</body>
+</html>
